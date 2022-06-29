@@ -50,6 +50,6 @@ mainset:
   - name: Burnaby
     probability: 1
 - names: []
-name: 'New Townname #0'
+name: BC Name Generator
 source: null
 subsets: []
