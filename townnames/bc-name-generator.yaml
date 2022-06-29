@@ -3,7 +3,7 @@ id: 0
 mainset:
 - names:
   - name: ''
-    probability: 50
+    probability: 100
   - name: 'North '
     probability: 1
   - name: 'South '
@@ -61,9 +61,181 @@ mainset:
     probability: 1
   - name: Active Pass
     probability: 1
+  - name: Adams Lake
+    probability: 1
+  - name: Agassiz
+    probability: 1
+  - name: Agate
+    probability: 1
+  - name: Ahbau
+    probability: 1
+  - name: Ahousat
+    probability: 1
+  - name: Ainsworth
+    probability: 1
+  - name: Ainsworth Hot Springs
+    probability: 1
+  - name: Aiyansh
+    probability: 1
+  - name: Alamo
+    probability: 1
+  - name: Albas
+    probability: 1
+  - name: Alberni
+    probability: 1
+  - name: Albert
+    probability: 1
+  - name: Albert Head
+    probability: 1
+  - name: Alberts
+    probability: 1
+  - name: Albion
+    probability: 1
+  - name: Albreda
+    probability: 1
+  - name: Aldergrove
+    probability: 1
+  - name: Alert Bay
+    probability: 1
+  - name: Alexander
+    probability: 1
+  - name: Alexandra
+    probability: 1
+  - name: Alexandria
+    probability: 1
+  - name: Alexis Creek
+    probability: 1
+  - name: Aleza Lake
+    probability: 1
+  - name: Alice Arm
+    probability: 1
+  - name: Alkali Lake
+    probability: 1
+  - name: Allenby
+    probability: 1
+  - name: Allison
+    probability: 1
+  - name: Alma
+    probability: 1
+  - name: Almond Gardens
+    probability: 1
+  - name: Alouette
+    probability: 1
+  - name: Alpine
+    probability: 1
+  - name: Alta Lake
+    probability: 1
+  - name: Altamont
+    probability: 1
+  - name: Altona
+    probability: 1
+  - name: Alvin
+    probability: 1
+  - name: Ambleside
+    probability: 1
+  - name: Amherst
+    probability: 1
+  - name: Anaconda
+    probability: 1
+  - name: Anahim
+    probability: 1
+  - name: Anderson
+    probability: 1
+  - name: Anglemont
+    probability: 1
+  - name: Angus
+    probability: 1
+  - name: Annacis
+    probability: 1
+  - name: Annacis Island
+    probability: 1
+  - name: Anniedale
+    probability: 1
+  - name: Annis
+    probability: 1
+  - name: Anthony
+    probability: 1
+  - name: Antler Creek
+    probability: 1
+  - name: Anvil
+    probability: 1
+  - name: Anyox
+    probability: 1
+  - name: Anzac
+    probability: 1
+  - name: Apex Mountain
+    probability: 1
+  - name: Appledale
+    probability: 1
+  - name: Applegrove
+    probability: 1
+  - name: April Point
+    probability: 1
+  - name: Arbutus
+    probability: 1
+  - name: Ardingley-Sprott
+    probability: 1
+  - name: Ardley
+    probability: 1
+  - name: Ardmore
+    probability: 1
+  - name: Argenta
+    probability: 1
+  - name: Argyle
+    probability: 1
+  - name: Aristazabal
+    probability: 1
+  - name: Armstrong
+    probability: 1
+  - name: Arnold
+    probability: 1
+  - name: Arrandale
+    probability: 1
+  - name: Arras
+    probability: 1
+  - name: Arrow Creek
+    probability: 1
+  - name: Arrow Park
+    probability: 1
+  - name: Arrowhead
+    probability: 1
+  - name: Arrowview Heights
+    probability: 1
+  - name: Ashcroft
+    probability: 1
+  - name: Ashton Creek
+    probability: 1
+  - name: Aspen Grove
+    probability: 1
+  - name: Aspen Park
+    probability: 1
+  - name: Atchelitz
+    probability: 1
+  - name: Athalmer
+    probability: 1
+  - name: Adanac
+    probability: 1
+  - name: Atlin
+    probability: 1
+  - name: Atluck
+    probability: 1
+  - name: Atnarko
+    probability: 1
+  - name: Attachie
+    probability: 1
+  - name: Auguston
+    probability: 1
+  - name: Austin
+    probability: 1
+  - name: Australian
+    probability: 1
+  - name: Avola
+    probability: 1
+  - name: Azu Ski Village
+    probability: 1
 - names:
   - name: ''
-    probability: 50
+    probability: 100
   - name: ' North'
     probability: 1
   - name: ' South'
