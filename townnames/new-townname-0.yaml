@@ -4,8 +4,12 @@ mainset:
 - names:
   - name: 'North '
     probability: 1
+  - name: 'South '
+    probability: 1
 - names:
   - name: Abbotsford
+    probability: 1
+  - name: Burnaby
     probability: 1
 - names:
   - name: ' Park'
