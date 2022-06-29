@@ -450,6 +450,6 @@ mainset:
     probability: 1
   - name: ' House'
     probability: 1
-name: BC Name Generator A
+name: BC Name Generator
 source: null
 subsets: []
