@@ -233,6 +233,88 @@ mainset:
     probability: 1
   - name: Azu Ski Village
     probability: 1
+  - name: Babine
+    probability: 1
+  - name: Baker
+    probability: 1
+  - name: Baldonnel
+    probability: 1
+  - name: Baldy Hughes
+    probability: 1
+  - name: Balfour
+    probability: 1
+  - name: Ballenas
+    probability: 1
+  - name: Balmoral
+    probability: 1
+  - name: Balmoral Beach
+    probability: 1
+  - name: Bamberton
+    probability: 1
+  - name: Bamfield
+    probability: 1
+  - name: Bankeir
+    probability: 1
+  - name: Banks
+    probability: 1
+  - name: Barclay Sound
+    probability: 1
+  - name: Barge Chilling Beach
+    probability: 1
+  - name: Barkerville
+    probability: 1
+  - name: Barkley Valley
+    probability: 1
+  - name: Barlow Creek
+    probability: 1
+  - name: Barnes Lake
+    probability: 1
+  - name: Barnet
+    probability: 1
+  - name: Barnhartvale
+    probability: 1
+  - name: Barnston Island
+    probability: 1
+  - name: Barrett Lake
+    probability: 1
+  - name: Barrière
+    probability: 1
+  - name: Barrowtown
+    probability: 1
+  - name: Basque
+    probability: 1
+  - name: Bastion Bay
+    probability: 1
+  - name: Batchelor Heights
+    probability: 1
+  - name: Batchelor Hills
+    probability: 1
+  - name: Baynes Lake
+    probability: 1
+  - name: Bayview
+    probability: 1
+  - name: Beach Grove
+    probability: 1
+  - name: Beachcomber Bay
+    probability: 1
+  - name: Beaconsfield
+    probability: 1
+  - name: Bear Camp
+    probability: 1
+  - name: Bear Creek
+    probability: 1
+  - name: Bear Flat
+    probability: 1
+  - name: Bear Lake
+    probability: 1
+  - name: Bear Mountain
+    probability: 1
+  - name: Beasley
+    probability: 1
+  - name: Beaton
+    probability: 1
+  - name: Beatton
+    probability: 1
 - names:
   - name: ''
     probability: 100
@@ -363,6 +445,10 @@ mainset:
   - name: ' Prairie'
     probability: 1
   - name: ' Ranch'
+    probability: 1
+  - name: ' Falls'
+    probability: 1
+  - name: ' House'
     probability: 1
 name: BC Name Generator A
 source: null
