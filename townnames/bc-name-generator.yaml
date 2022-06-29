@@ -315,6 +315,68 @@ mainset:
     probability: 1
   - name: Beatton
     probability: 1
+  - name: Beaver Cove
+    probability: 1
+  - name: Beaver Creek
+    probability: 1
+  - name: Beaver Lake
+    probability: 1
+  - name: Beaver River
+    probability: 1
+  - name: Beaverdell
+    probability: 1
+  - name: Beaverley
+    probability: 1
+  - name: Becher House
+    probability: 1
+  - name: Bedwell Harbour
+    probability: 1
+  - name: Belgo
+    probability: 1
+  - name: Bell II
+    probability: 1
+  - name: Bella Bella
+    probability: 1
+  - name: Bella Coola
+    probability: 1
+  - name: Bellerose
+    probability: 1
+  - name: Belleview
+    probability: 1
+  - name: Belmont
+    probability: 1
+  - name: Belmont Park
+    probability: 1
+  - name: Ben-My-Chree
+    probability: 1
+  - name: Bend
+    probability: 1
+  - name: Bennett
+    probability: 1
+  - name: Benson Lake
+    probability: 1
+  - name: Benvoulin
+    probability: 1
+  - name: Beresford
+    probability: 1
+  - name: Bergs
+    probability: 1
+  - name: Beryl Prairie
+    probability: 1
+  - name: Bessborough
+    probability: 1
+  - name: Bestwick
+    probability: 1
+  - name: Bethlehem
+    probability: 1
+  - name: Bevan
+    probability: 1
+  - name: Big Bar
+    probability: 1
+  - name: Big Bay
+    probability: 1
+  - name: Big Bend
+    probability: 1
 - names:
   - name: ''
     probability: 100
