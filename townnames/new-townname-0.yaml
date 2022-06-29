@@ -1,0 +1,23 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: 'North '
+    probability: 1
+- names:
+  - name: Abbotsford
+    probability: 1
+- names:
+  - name: ' Park'
+    probability: 1
+  - name: ' Ridge'
+    probability: 1
+  - name: ' Heights'
+    probability: 1
+  - name: ''
+    probability: 11
+  - name: ' Harbour'
+    probability: 1
+name: 'New Townname #0'
+source: null
+subsets: []
