@@ -1,7 +1,7 @@
 description: A new TrueGRF project
 grfid: f2777440
 license: CC0-1.0
-name: bcnamegenerator
+name: bcnamegeneratortest
 type: townname
 url: https://github.com/RoyalExamination9410/bcnamegenerator
 version: 6
