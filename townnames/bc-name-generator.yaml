@@ -45,11 +45,153 @@ mainset:
   - name: 'Point '
     probability: 1
 - names:
+  - name: 70 Mile House
+    probability: 1
+  - name: 100 Mile House
+    probability: 1
+  - name: 108 Mile House
+    probability: 1
+  - name: 150 Mile House
+    probability: 1
   - name: Abbotsford
     probability: 1
-  - name: Burnaby
+  - name: Aberdeen
     probability: 1
-- names: []
+  - name: Abhau
+    probability: 1
+  - name: Active Pass
+    probability: 1
+- names:
+  - name: ''
+    probability: 50
+  - name: ' North'
+    probability: 1
+  - name: ' South'
+    probability: 1
+  - name: ' East'
+    probability: 1
+  - name: ' West'
+    probability: 1
+  - name: ' City Centre'
+    probability: 1
+  - name: ' Central'
+    probability: 1
+  - name: ' Centre'
+    probability: 1
+  - name: ' Town'
+    probability: 1
+  - name: ' Town Centre'
+    probability: 1
+  - name: ' Township'
+    probability: 1
+  - name: ' Village'
+    probability: 1
+  - name: ' Village Green'
+    probability: 1
+  - name: ' Camp'
+    probability: 1
+  - name: ' Farms'
+    probability: 1
+  - name: ' Garden'
+    probability: 1
+  - name: ' Gardens'
+    probability: 1
+  - name: ' Harbour'
+    probability: 1
+  - name: ' Heights'
+    probability: 1
+  - name: ' Mills'
+    probability: 1
+  - name: ' Mine'
+    probability: 1
+  - name: ' Mines'
+    probability: 1
+  - name: ' Fort'
+    probability: 1
+  - name: ' Port'
+    probability: 1
+  - name: ' Cannery'
+    probability: 1
+  - name: ' Bar'
+    probability: 1
+  - name: ' Beach'
+    probability: 1
+  - name: ' Bog'
+    probability: 1
+  - name: ' Cove'
+    probability: 1
+  - name: ' Creek'
+    probability: 1
+  - name: ' Hill'
+    probability: 1
+  - name: ' Hills'
+    probability: 1
+  - name: ' Hillside'
+    probability: 1
+  - name: ' Field'
+    probability: 1
+  - name: ' Flats'
+    probability: 1
+  - name: ' Grove'
+    probability: 1
+  - name: ' Lake'
+    probability: 1
+  - name: ' Mount'
+    probability: 1
+  - name: ' Mountain'
+    probability: 1
+  - name: ' Orchard'
+    probability: 1
+  - name: ' Orchards'
+    probability: 1
+  - name: ' Park'
+    probability: 1
+  - name: ' Point'
+    probability: 1
+  - name: ' Ridge'
+    probability: 1
+  - name: ' River'
+    probability: 1
+  - name: ' Rock'
+    probability: 1
+  - name: ' Terrace'
+    probability: 1
+  - name: ' Terraces'
+    probability: 1
+  - name: ' Valley'
+    probability: 1
+  - name: ' Wood'
+    probability: 1
+  - name: ' Woods'
+    probability: 1
+  - name: ' Bridge'
+    probability: 1
+  - name: ' Cross'
+    probability: 1
+  - name: ' Crossing'
+    probability: 1
+  - name: ' Estate'
+    probability: 1
+  - name: ' Estates'
+    probability: 1
+  - name: ' Ferry'
+    probability: 1
+  - name: ' Junction'
+    probability: 1
+  - name: ' Landing'
+    probability: 1
+  - name: ' Pass'
+    probability: 1
+  - name: ' Place'
+    probability: 1
+  - name: ' Sidings'
+    probability: 1
+  - name: ' Green'
+    probability: 1
+  - name: ' Prairie'
+    probability: 1
+  - name: ' Ranch'
+    probability: 1
 name: BC Name Generator
 source: null
 subsets: []
