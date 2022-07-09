@@ -441,6 +441,56 @@ mainset:
     probability: 1
   - name: Blueridge
     probability: 1
+  - name: Blundell
+    probability: 1
+  - name: Boat Basin
+    probability: 1
+  - name: Boat Harbour
+    probability: 1
+  - name: Bob Quinn Lake
+    probability: 1
+  - name: Bold Point
+    probability: 1
+  - name: Bolivar Heights
+    probability: 1
+  - name: Bonaparte
+    probability: 1
+  - name: Bones Bay
+    probability: 1
+  - name: Bonnet Hill
+    probability: 1
+  - name: Bonnington Flats
+    probability: 1
+  - name: Bonwick
+    probability: 1
+  - name: Boothroyd
+    probability: 1
+  - name: Boring
+    probability: 1
+  - name: Boss Mountain
+    probability: 1
+  - name: Boston Bar
+    probability: 1
+  - name: Boswell
+    probability: 1
+  - name: Bouchie Lake
+    probability: 1
+  - name: Boulder
+    probability: 1
+  - name: Boulder City
+    probability: 1
+  - name: Boulevard
+    probability: 1
+  - name: Boundary
+    probability: 1
+  - name: Boundary Bay
+    probability: 1
+  - name: Boundary Country
+    probability: 1
+  - name: Bowen
+    probability: 1
+  - name: Bowen Island
+    probability: 1
 - names:
   - name: ''
     probability: 100
