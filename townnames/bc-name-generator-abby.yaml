@@ -47,8 +47,12 @@ mainset:
 - names:
   - name: Abbotsford
     probability: 1
+  - name: Burnaby
+    probability: 1
 - names:
   - name: ' North'
+    probability: 1
+  - name: ' City'
     probability: 1
 name: BC Name Generator Abby
 source: null
