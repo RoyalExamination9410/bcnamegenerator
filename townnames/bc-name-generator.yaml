@@ -44,6 +44,12 @@ mainset:
     probability: 1
   - name: 'Point '
     probability: 1
+- names:
+  - name: Abbotsford
+    probability: 1
+- names:
+  - name: ' North'
+    probability: 1
 name: BC Name Generator
 source: null
 subsets: []
