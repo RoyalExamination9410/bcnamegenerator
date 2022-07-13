@@ -639,6 +639,20 @@ mainset:
     probability: 1
   - name: Burnside
     probability: 1
+  - name: Burnside-Gorge
+    probability: 1
+  - name: Burquitlam
+    probability: 1
+  - name: Burrad
+    probability: 1
+  - name: Burrard Inlet
+    probability: 1
+  - name: Burton
+    probability: 1
+  - name: Butedale
+    probability: 1
+  - name: Byrne
+    probability: 1
 name: BC Name Generator 7/13
 source: null
 subsets: []
