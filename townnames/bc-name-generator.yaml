@@ -343,6 +343,350 @@ mainset:
     probability: 1
   - name: Bellerose
     probability: 1
+  - name: Belleview
+    probability: 1
+  - name: Belmont
+    probability: 1
+  - name: Belmont Park
+    probability: 1
+  - name: Ben-My-Chree
+    probability: 1
+  - name: Bend
+    probability: 1
+  - name: Bennett
+    probability: 1
+  - name: Benson Lake
+    probability: 1
+  - name: Benvoulin
+    probability: 1
+  - name: Beresford
+    probability: 1
+  - name: Bergs
+    probability: 1
+  - name: Beryl Prairie
+    probability: 1
+  - name: Bessborough
+    probability: 1
+  - name: Bestwick
+    probability: 1
+  - name: Bethlehem
+    probability: 1
+  - name: Bevan
+    probability: 1
+  - name: Big Bar
+    probability: 1
+  - name: Big Bay
+    probability: 1
+  - name: Big Bend
+    probability: 1
+  - name: Big Creek
+    probability: 1
+  - name: Big Eddy
+    probability: 1
+  - name: Big Lake
+    probability: 1
+  - name: Big Lake Ranch
+    probability: 1
+  - name: Billings
+    probability: 1
+  - name: Birch Island
+    probability: 1
+  - name: Birchdale
+    probability: 1
+  - name: Birchland
+    probability: 1
+  - name: Birken
+    probability: 1
+  - name: Birmingham
+    probability: 1
+  - name: Blackcomb
+    probability: 1
+  - name: Blackfoot
+    probability: 1
+  - name: Blackloam
+    probability: 1
+  - name: Blackpool
+    probability: 1
+  - name: Blackwater
+    probability: 1
+  - name: Blaeberry
+    probability: 1
+  - name: Blakeburn
+    probability: 1
+  - name: Blanshard
+    probability: 1
+  - name: Blenkinsop
+    probability: 1
+  - name: Blewett
+    probability: 1
+  - name: Bligh
+    probability: 1
+  - name: Blind Bay
+    probability: 1
+  - name: Blind Channel
+    probability: 1
+  - name: Blind Landing
+    probability: 1
+  - name: Bloedel
+    probability: 1
+  - name: Blubber Bay
+    probability: 1
+  - name: Blucher Hall
+    probability: 1
+  - name: Blue Hawk Mine
+    probability: 1
+  - name: Blue River
+    probability: 1
+  - name: Blue Springs
+    probability: 1
+  - name: Blueberry
+    probability: 1
+  - name: Blueridge
+    probability: 1
+  - name: Blundell
+    probability: 1
+  - name: Boat Basin
+    probability: 1
+  - name: Boat Harbour
+    probability: 1
+  - name: Bob Quinn Lake
+    probability: 1
+  - name: Bold Point
+    probability: 1
+  - name: Bolivar Heights
+    probability: 1
+  - name: Bonaparte
+    probability: 1
+  - name: Bones Bay
+    probability: 1
+  - name: Bonnett Hill
+    probability: 1
+  - name: Bonnington Falls
+    probability: 1
+  - name: Bonwick
+    probability: 1
+  - name: Boothroyd
+    probability: 1
+  - name: Boring
+    probability: 1
+  - name: Boss Mountain
+    probability: 1
+  - name: Boston Bar
+    probability: 1
+  - name: Boswell
+    probability: 1
+  - name: Bouchie Lake
+    probability: 1
+  - name: Boulder
+    probability: 1
+  - name: Boulevard
+    probability: 1
+  - name: Boundary
+    probability: 1
+  - name: Boundary Bay
+    probability: 1
+  - name: Boundary Country
+    probability: 1
+  - name: Bowen
+    probability: 1
+  - name: Bowen Island
+    probability: 1
+  - name: Bowser
+    probability: 1
+  - name: Brackendale
+    probability: 1
+  - name: Bradian
+    probability: 1
+  - name: Bradner
+    probability: 1
+  - name: Brady
+    probability: 1
+  - name: Braeloch
+    probability: 1
+  - name: Braemar
+    probability: 1
+  - name: Braeside
+    probability: 1
+  - name: Braid
+    probability: 1
+  - name: Bralorne
+    probability: 1
+  - name: Bralorne Mine
+    probability: 1
+  - name: Brandon
+    probability: 1
+  - name: Brannam Lake
+    probability: 1
+  - name: Branscombe
+    probability: 1
+  - name: Brem River
+    probability: 1
+  - name: Brenda Mines
+    probability: 1
+  - name: Brentwood
+    probability: 1
+  - name: Brentwood Bay
+    probability: 1
+  - name: Brethour
+    probability: 1
+  - name: Brew Bay
+    probability: 1
+  - name: Brexton
+    probability: 1
+  - name: Briar Ridge
+    probability: 1
+  - name: Bridal Falls
+    probability: 1
+  - name: Bridesville
+    probability: 1
+  - name: Bridge Lake
+    probability: 1
+  - name: Bridge River
+    probability: 1
+  - name: Bridgeport
+    probability: 1
+  - name: Bridgeview
+    probability: 1
+  - name: Brigade Lake
+    probability: 1
+  - name: Brighouse
+    probability: 1
+  - name: Brilliant
+    probability: 1
+  - name: Brisco
+    probability: 1
+  - name: Britannia
+    probability: 1
+  - name: Britannia Beach
+    probability: 1
+  - name: Britannia Mine
+    probability: 1
+  - name: British Columbia
+    probability: 1
+  - name: British Properties
+    probability: 1
+  - name: Broadmead-Sunnymead
+    probability: 1
+  - name: Broadmoor
+    probability: 1
+  - name: Broadview
+    probability: 1
+  - name: Broadway
+    probability: 1
+  - name: Broadway-City Hall
+    probability: 1
+  - name: Brocklehurst
+    probability: 1
+  - name: Broman Lake
+    probability: 1
+  - name: Brooklyn
+    probability: 1
+  - name: Brookmere
+    probability: 1
+  - name: Brookswood
+    probability: 1
+  - name: Boom Hill
+    probability: 1
+  - name: Broughton
+    probability: 1
+  - name: Brouse
+    probability: 1
+  - name: Browning
+    probability: 1
+  - name: Browning Harbour
+    probability: 1
+  - name: Brunette Creek
+    probability: 1
+  - name: Brunswick
+    probability: 1
+  - name: Brunswick Beach
+    probability: 1
+  - name: Buccaneer Bay
+    probability: 1
+  - name: Buckhorn
+    probability: 1
+  - name: Buckingham
+    probability: 1
+  - name: Buckinghorse River
+    probability: 1
+  - name: Buckley Bay
+    probability: 1
+  - name: Buffalo
+    probability: 1
+  - name: Buick
+    probability: 1
+  - name: Bulkley House
+    probability: 1
+  - name: Bull River
+    probability: 1
+  - name: Bullion
+    probability: 1
+  - name: Bullion Mine
+    probability: 1
+  - name: Burke
+    probability: 1
+  - name: Burke Road
+    probability: 1
+  - name: Burkeville
+    probability: 1
+  - name: Burkhart
+    probability: 1
+  - name: Burnaby
+    probability: 1
+  - name: Burns Bog
+    probability: 1
+  - name: Burns Lake
+    probability: 1
+  - name: Burnside
+    probability: 1
+  - name: Burnside-Gorge
+    probability: 1
+  - name: Burquitlam
+    probability: 1
+  - name: Burrard
+    probability: 1
+  - name: Burrard Inlet
+    probability: 1
+  - name: Burton
+    probability: 1
+  - name: Butedale
+    probability: 1
+  - name: Byrne
+    probability: 1
+  - name: Cabbage
+    probability: 1
+  - name: Cache Creek
+    probability: 1
+  - name: Cadboro Bay
+    probability: 1
+  - name: Cahilty
+    probability: 1
+  - name: Caithness
+    probability: 1
+  - name: 'Callison '
+    probability: 1
+  - name: Calvert
+    probability: 1
+  - name: Camborne
+    probability: 1
+  - name: Cameron
+    probability: 1
+  - name: Cameronton
+    probability: 1
+  - name: Camerontown
+    probability: 1
+  - name: Camp Artaban
+    probability: 1
+  - name: Camp McKinney
+    probability: 1
+  - name: Camp River
+    probability: 1
+  - name: Campania
+    probability: 1
+  - name: Campbell
+    probability: 1
+  - name: Campbell River
+    probability: 1
 - names:
   - name: ' North'
     probability: 1
