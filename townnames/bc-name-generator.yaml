@@ -45,15 +45,87 @@ mainset:
   - name: 'Point '
     probability: 1
 - names:
+  - name: 100 Mile House
+    probability: 1
+  - name: 108 Mile House
+    probability: 1
+  - name: 150 Mile House
+    probability: 1
+  - name: 70 Mile House
+    probability: 1
   - name: Abbotsford
     probability: 1
-  - name: Burnaby
+  - name: Aberdeen
+    probability: 1
+  - name: Abhau
+    probability: 1
+  - name: Active Pass
+    probability: 1
+  - name: Adams Lake
+    probability: 1
+  - name: Adanac
+    probability: 1
+  - name: Agassiz
+    probability: 1
+  - name: Agate
+    probability: 1
+  - name: Ahbau
+    probability: 1
+  - name: Ahousat
+    probability: 1
+  - name: Ainsworth
+    probability: 1
+  - name: Ainsworth Hot Springs
+    probability: 1
+  - name: Aiyansh
+    probability: 1
+  - name: Alamo
+    probability: 1
+  - name: Albas
+    probability: 1
+  - name: Alberni
+    probability: 1
+  - name: Albert
+    probability: 1
+  - name: Albert Head
+    probability: 1
+  - name: Alberts
+    probability: 1
+  - name: Albion
+    probability: 1
+  - name: Albreda
+    probability: 1
+  - name: Aldergrove
+    probability: 1
+  - name: Alert Bay
+    probability: 1
+  - name: Alexander
+    probability: 1
+  - name: Alexandra
+    probability: 1
+  - name: Alexandria
+    probability: 1
+  - name: Alexis Creek
+    probability: 1
+  - name: Aleza Lake
+    probability: 1
+  - name: Alice Arm
+    probability: 1
+  - name: Alkali Lake
+    probability: 1
+  - name: Allenby
+    probability: 1
+  - name: Allison
+    probability: 1
+  - name: Alma
+    probability: 1
+  - name: Almond Gardens
     probability: 1
 - names:
   - name: ' North'
     probability: 1
   - name: ' City'
     probability: 1
-name: BC Name Generator Abby
+name: BC Name Generator
 source: null
 subsets: []
